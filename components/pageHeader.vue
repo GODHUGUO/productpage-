@@ -164,15 +164,17 @@ z-index: 10;
   right:20px;
   z-index:1;
   background-color:#ffffff;
+
 }
 }
 
 @media (max-width:1024px){
 .chek{
-  width: 40%;
+  width: 90%;
   right:20px;
   z-index:1;
-  background-color:#ffffff;
+  // background-color:#ffffff;
+
 }
 }
 

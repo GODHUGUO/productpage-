@@ -93,6 +93,7 @@ justify-content: center;
 align-items: center;
 padding: 9px;
 
+
 }
 
 .cartstyle{
@@ -102,7 +103,6 @@ justify-content: center;
 align-items: center;
 height: 200px;
 
-background-color:#FFFFFF;
 }
 
 
